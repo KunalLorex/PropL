@@ -3,39 +3,45 @@
     {
       "id": "Q2",
       "text": "You have been a source of strength and support for me. I'm glad that you're a part of my life",
-      "image": "/images/image-03.webp"
+      "image": "/images/nannu(1).jpeg"
     },
     {
       "id": "Q3",
       "text": "You make me smile so easily. Can you be there, to do it forever?",
-      "image": "/images/image-02.webp"
+      "image": "/images/nannu (2).jpeg"
     },
     {
       "id": "Q4",
       "text": "I was alone in life, but when you came into my life, you brought colours with you and painted my life with beautiful colours",
-      "image": "/images/image-01.webp"
+      "image": "/images/nannu (1).jpeg"
     },
     {
       "id": "Q5",
       "text": "Your absence is stronger to me than the presence of thousands of other people",
-      "image": "/images/image-07.webp"
+      "image": "/images/nannu (7).jpeg"
     },
     {
       "id": "Q6",
       "text": "I fell in love with you not for how you look, just for who you are",
-      "image": "/images/image-06.webp"
+      "image": "/images/nannu (5).jpeg"
     }
     ,
+   
     {
-      "id": "Q7",
-      "text": "Mohabbat ko jaanke naapa nhi behinta krte rahe hum kabhi kabool ka ishara to kro dil vahi de chuke the hum",
-      "image": "/images/image-06.webp"
+      "id": "Q8",
+      "text": "इस इश्क़ 😍 ने हमे मगरूर कर दिया ,  हर खुशी ☺️ से बहुत दूर ✋ कर दिया …  सोचा 🤔 नहीं था कभी हमे इश्क़ ♥️ होगा ,  पर आपके नजरों 👀 ने मजबूर कर दिया … ।।",
+      "image": "/images/nannu (13).jpeg"
+    },
+    {
+      "id": "Q9",
+      "text": "तेरे दिल ♥️ को सजाएंगे अपने अरमान 😍 देकर ,    तेरे लबों 💋 को हसाएंगे 😊 अपनी मुस्कान देकर …    प्यार 💘 की कसम तुझे कबर ⚰️ से भी उठा लाएंगे ,    तेरे जिस्म 😍 में हम अपनी सारी जान 💘 देकर … ।।",
+      "image": "/images/nannu (14).jpeg"
     }
   ],
   "propose": {
     "id": "finished",
-    "text": "I'm not sure what life could bring you. I'm not sure if dreams do come true. I'm not sure what love can do. But I'm sure about one thing. I love you",
+    "text": "I'm not sure what life could bring you. I'm not sure if dreams do come true. I'm not sure what love can do. But I'm sure about one thing. I love you and will love you forever no matter what the condition is , no matter what what the outcome is I will be there for you ",
     "subtext": "That's all I will wait for your reply",
-    "image": "/images/image-04.webp"
+    "image": "/images/nannu(12).jpeg"
   }
 }

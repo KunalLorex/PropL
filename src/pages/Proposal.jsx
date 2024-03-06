@@ -9,11 +9,11 @@ import { genRandom } from '../utills';
 const Proposal = ({ className = '' }) => {
     const { id } = useParams();
     // const person = id.split('-').join(' ');
-    const person ="Ankita";
+    const person ="Nannu (My Ankita)";
 
     const [texts, setTexts] = useState([]);
     const [currentText, setCurrentText] = useState({
-        image: '/images/image-05.webp',
+        image: '/images/nannu (3).jpeg',
         subtext: 'I want to tell you something',
     });
 
@@ -58,13 +58,19 @@ const Proposal = ({ className = '' }) => {
         <div
             className={`proposal ${className}`}
             style={{
-                '--image': `url(${currentText.image})`,
+                background:"transparent",
+                display:"flex",
+                justifyContent:"center",
+                gap:"5em"
+
+                // '--image': `url(${currentText.image})`,
             }}
         >
-            <div className="proposal_media bg-dark d-none d-md-block" />
+            <img src={currentText.image} style={{height:"100vh",width:"50vw"}} />
+            {/* <div className="proposal_media bg-dark d-none d-md-block" /> */}
             <Container>
                 <Row>
-                    <Col md={6} className="ms-auto">
+                    <Col md={6} className="">
                         <div className="proposal_content py-5">
                             <div className="proposal_header">
                                 <h1 className="proposal_title h4">
